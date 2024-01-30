@@ -7,3 +7,5 @@ for (let i = 0; i < 5; i++) {
 }
 
 console.log(sum);
+
+console.log("These are my new changes")
